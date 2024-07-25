@@ -1,0 +1,22 @@
+{
+  "name": "codiway1/yii2-cms-infoblocks",
+  "autoload": {
+    "psr-4": {
+        "CmsModule\\Infoblocks\\": "src/"
+    }
+  },
+  "type": "yii2-cms-module",
+  "authors": [
+      {
+          "name": "Test",
+          "email": "test@mail.ru"
+      }
+  ],
+  "require": {
+      "composer/installers": "~1",
+      "oomphinc/composer-installers-extender": "^2.0"
+  },
+  "extra": {
+      "installer-name": "infoblocks"
+  }
+}

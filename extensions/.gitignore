@@ -1,0 +1,7 @@
+/modules/*
+!/modules/infoblocks
+!/modules/reviews
+!/modules/news
+!/modules/subscribers
+!/modules/blogs
+!/modules/quests
